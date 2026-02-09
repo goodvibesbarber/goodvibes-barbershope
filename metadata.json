@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Good Vibes Barber Shop",
+  "description": "A premium, modern-industrial grooming destination in Singapore specializing in precision fades and stress-free vibes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
